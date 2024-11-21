@@ -5,7 +5,6 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Dishes from "./components/assets/Dishes";
 import About from "./components/assets/About";
-import { MISSION, REVIEW } from "./constants";
 import Misson from "./components/assets/Misson";
 import Expertise from "./components/assets/Expertise";
 import Review from "./components/assets/Review";
