@@ -1,5 +1,4 @@
 import React from 'react'
-import missionImg from "../assets/mission.jpeg"
 import { MISSION } from '../../constants'
 
 const Misson = () => {
